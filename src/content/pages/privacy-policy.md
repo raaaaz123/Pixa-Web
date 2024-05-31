@@ -5,7 +5,7 @@ description: "this is meta description"
 draft: false
 ---
 
-### Pixa AI Privacy Policy
+### Pixa AI Privacy Policy 2
 Effective Date: 01/01/2024
 
 Rexa Technologies (“we,” “our,” “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Pixa AI application (the “App”). Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not use the App.
