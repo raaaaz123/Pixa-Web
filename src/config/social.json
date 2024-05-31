@@ -1,24 +1,15 @@
 {
   "main": [
     {
-      "name": "facebook",
+      "name": "Instagram",
       "icon": "FaFacebook",
-      "link": "https://www.facebook.com/"
+      "link": "https://www.instagram.com/pixa_ai_app?igsh=bndqdHR1ZXZjcGhu"
     },
-    {
-      "name": "twitter",
-      "icon": "FaTwitter",
-      "link": "https://twitter.com/"
-    },
-    {
-      "name": "github",
-      "icon": "FaGithub",
-      "link": "https://www.github.com/"
-    },
+    
     {
       "name": "linkedin",
       "icon": "FaLinkedin",
-      "link": "https://www.linkedin.com/"
+      "link": "https://in.linkedin.com/company/rexa-technologies"
     }
   ]
 }
